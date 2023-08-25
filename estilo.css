@@ -1,0 +1,24 @@
+body,html{
+    margin: auto;
+    border: solid 10px green; 
+}
+
+#destaque{
+    background-image: url(imagen\ de\ fundoquadro-de-folhas-de-primavera_23-2148413823.webp);
+background-size: cover;
+text-align: center;
+color: black;
+
+}
+.item{
+     width:90%;             
+    
+border: 70px solid green
+float: left;
+padding: 4%;
+}
+
+#figura{
+    border: 3px darkgreen greenyellow;
+
+}
